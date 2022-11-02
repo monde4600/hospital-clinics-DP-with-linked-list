@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667424007 source:e:\embided_deblom\nti\c_programming\coding\clinicpacking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"app_config.h"
+	"fun.h"
+
+1667421103 e:\embided_deblom\nti\c_programming\coding\clinicpacking\app_config.h
+
+1667420895 e:\embided_deblom\nti\c_programming\coding\clinicpacking\fun.h
+
+1667420861 source:e:\embided_deblom\nti\c_programming\coding\clinicpacking\fun.c
+	"app_config.h"
+
